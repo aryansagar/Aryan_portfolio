@@ -1,0 +1,173 @@
+{
+  "main": {
+    "name": "Rahul Aryan",
+    "occupation": "Full Stack Developer at Tekonika Technologies and Full-Stack(MERN) Developer",
+    "description": "I eat, sleep and breathe Code",
+    "image": "profilepic.jpg",
+    "bio": "From 'Hello World' to 'Hello, My Name is Rahul Aryan, and am from IIIT-BH. I've Been Working for 3+ Years'! Turning caffeine into code and bugs into distant memories, one 'Eureka!' moment at a time.I specialize in creating robust and user-friendly applications. I am passionate about leveraging innovative solutions to drive impactful results in the ever-evolving tech landscape. Always ready to turn '404 not found' into '200 OK',Love to solve the problems and eager to take the challenging tasks.",
+    "contactmessage": "Get in touch with me",
+    "email": "aryansagar1996@gmail.com",
+    "phone": "+919835702293",
+    "address": {
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+     
+      {
+        "name": "Leetcode",
+        "url": "https://leetcode.com/aryansagar/",
+        "className": "fa fa-codepen"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aryanrahul/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/aryansagar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "IIIT BHUBANESWAR",
+        "degree": "Bachelor's Degree, EEE",
+        "graduated": "Sept 2019",
+        "description": "Exploring the Computer Science subjects like Programming Language, Data structures and algorithms and Artificial intelligence and machine learning"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tekonika Technology",
+        "title": "Full-Stack Developer",
+        "years":"Jan 2023 - Present",
+        "description":"Collaborated on the development and enhancement of the Admin and Invoice modules within the Whitehill.Contributedtothedesignandimplementationoffrontendcomponentsforthe Admin and Invoice modules. Workedcloselywiththedevelopmentteamtotroubleshootissues,optimize API calls, and improve the overall performance."
+      },
+      {
+        "company": "FlyNava Technology",
+        "title": "Front-End Developer",
+        "years":"July 2022 - Sept 2022",
+        "description":"Successfully developed and delivered the full front-end application for Loyalty Caravan, ensuring a seamless and user-friendly interface. Collaboratedcloselywiththebackenddevelopmentteam,activelyparticipating in the creation of RESTful APIs to establish smooth communication between the front-end and back-end systems."
+      },
+     
+      {
+        "company": "Freelance and Teaching",
+        "title": "Full-Stack Developer",
+        "years":"sept 2019 - July 2022",
+        "description":"Collaborated on multiple projects involving the design and implementation of APIs, utilizing cutting-edge technologies to ensure seamless integration between frontend and backend systems for web-App.SpecializedindevelopingrobustFull-StackWebApplicationsensuring end-to-end delivery and optimal user experiences across multiple platforms."
+
+      }
+    ],
+    "skills": [
+
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "Material Ui",
+        "level": "90%"
+      },
+      {
+        "name": "Tailwind",
+        "level": "88%"
+      },
+      {
+        "name": "SCSS",
+        "level": "70%"
+      },
+      {
+        "name":"Mongodb",
+        "level":"95%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"90%"
+       
+     },
+     {
+      "name":"Expressjs",
+      "level":"95%"
+    },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+     
+      {
+        "name": "FrontEnd Development",
+        "level": "95%"
+      },
+      {
+        "name": "Full-Stack Development",
+        "level": "85%"
+      },
+      {
+        "name":"React native",
+        "level":"70%"
+      },
+  
+      {
+        "name":"AWS",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "esate app",
+
+        "image": "estate.jpg",
+        "url": "https://realestate-ua4v.onrender.com/",
+        "Technology":"React,Nodejs,Express,Redux",
+        "Description": "Building a Modern Real Estate marketplace the MERN stack with JWT (JSON Web Tokens) and Redux Toolkit involves various steps and functionalities like SignIn, SignUp,OAuth, listing"
+      },
+      {
+        "title": "covid-19 Tracker",
+        "image":"covid.jpg",
+        "url":"https://covid-19-tracker-f0e20.web.app",
+        "Technologies":"React,Context Api,mUI",
+        "Description": "by using this App can checked any type of cases like increasing ,recovered,deaths of world"
+
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rahul is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "clients"
+      },
+      {
+        "text": "Work with Rahul has been AWESOME, he makes so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Team"
+      }
+    ]
+  }
+}
